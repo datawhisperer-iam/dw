@@ -2737,7 +2737,7 @@ hr{
     }
 }
 .about-area .about-img1{
-    background-image:url(../img/gallery/about-img1.png);
+    /*background-image:url(../img/gallery/about-img1.png);*/
     background-size:100%;
     background-size:cover;
     background-repeat:no-repeat;
@@ -2754,7 +2754,7 @@ hr{
     align-items:end
 }
 .about-area .about-img2{
-    background-image:url(../img/gallery/about-img2.png);
+    /*background-image:url(../img/gallery/about-img2.png);*/
     background-size:100%;
     background-size:cover;
     background-repeat:no-repeat;
@@ -2771,7 +2771,7 @@ hr{
     align-items:end
 }
 .about-area .about-img3{
-    background-image:url(../img/gallery/about-img3.jpeg);
+    /*background-image:url(../img/gallery/about-img3.jpeg);*/
     background-size:100%;
     background-size:cover;
     background-repeat:no-repeat;
@@ -2788,7 +2788,7 @@ hr{
     align-items:end
 }
 .about-area .about-img4{
-    background-image:url(../img/gallery/about-img4.JPG);
+    /*background-image:url(../img/gallery/about-img4.JPG);*/
     background-size:100%;
     background-size:cover;
     background-repeat:no-repeat;
