@@ -2743,7 +2743,7 @@ hr{
     background-repeat:no-repeat;
     height:550px;
     width:550px;
-    /*display:-webkit-box;
+    display:-webkit-box;
     display:-ms-flexbox;
     display:flex;
     -webkit-box-pack:end;
@@ -2751,7 +2751,7 @@ hr{
     justify-content:end;
     -webkit-box-align:end;
     -ms-flex-align:end;
-    align-items:end*/
+    align-items:end
 }
 .about-area .about-img2{
     background-image:url(../img/gallery/about-img2.png);
@@ -2760,7 +2760,7 @@ hr{
     background-repeat:no-repeat;
     height:550px;
     width:550px;
-    /*display:-webkit-box;
+    display:-webkit-box;
     display:-ms-flexbox;
     display:flex;
     -webkit-box-pack:end;
@@ -2768,7 +2768,7 @@ hr{
     justify-content:end;
     -webkit-box-align:end;
     -ms-flex-align:end;
-    align-items:end*/
+    align-items:end
 }
 .about-area .about-img3{
     background-image:url(../img/gallery/about-img3.jpeg);
@@ -2777,7 +2777,7 @@ hr{
     background-repeat:no-repeat;
     height:550px;
     width:550px;
-    /*display:-webkit-box;
+    display:-webkit-box;
     display:-ms-flexbox;
     display:flex;
     -webkit-box-pack:end;
@@ -2785,7 +2785,7 @@ hr{
     justify-content:end;
     -webkit-box-align:end;
     -ms-flex-align:end;
-    align-items:end*/
+    align-items:end
 }
 .about-area .about-img4{
     background-image:url(../img/gallery/about-img4.jpg);
@@ -2794,7 +2794,7 @@ hr{
     background-repeat:no-repeat;
     height:550px;
     width:550px;
-    /*display:-webkit-box;
+    display:-webkit-box;
     display:-ms-flexbox;
     display:flex;
     -webkit-box-pack:end;
@@ -2802,7 +2802,7 @@ hr{
     justify-content:end;
     -webkit-box-align:end;
     -ms-flex-align:end;
-    align-items:end*/
+    align-items:end
 }
 @media (max-width: 575px){
     .about-area .about-img{
